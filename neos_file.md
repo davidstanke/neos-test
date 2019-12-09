@@ -7,25 +7,14 @@ If you use the "Open in Cloud Shell" link in the README, this file should open i
     echo 'hello'
     ```
 
-### Indented code block without backticks
-
-    echo 'hello'
-
 ### Code block with backticks
 
 ```bash
 echo 'hello'
 ```
 
-### Indented code block _IN A LIST_ with backticks
-1. This is a list item
-    1. This is a list sub-item
+### Indented code block with backticks (again)
+
     ```bash
     echo 'hello'
     ```
-
-### Code block with backticks
-
-```bash
-echo 'hello'
-```
