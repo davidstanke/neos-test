@@ -18,3 +18,13 @@ echo 'hello'
     ```bash
     echo 'hello'
     ```
+
+### Indented code block without backticks
+
+    echo 'hello'
+
+### Indented code block with backticks (again)
+
+    ```bash
+    echo 'hello'
+    ```
