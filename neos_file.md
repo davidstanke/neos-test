@@ -3,15 +3,15 @@ If you use the "Open in Cloud Shell" link in the README, this file should open i
 
 ### Code block with backticks, no language specified
 
-```
-echo 'hello'
-```
+    ```
+    echo 'hello'
+    ```
 
 ### Code block with backticks, 'bash' language specified
 
-```bash
-echo 'hello'
-```
+    ```bash
+    echo 'hello'
+    ```
 
 ### Indented code block (no backticks)
 
@@ -19,6 +19,6 @@ echo 'hello'
 
 ### Code block with tildes
 
-~~~
-echo 'hello'
-~~~
+    ~~~
+    echo 'hello'
+    ~~~
