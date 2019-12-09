@@ -3,9 +3,9 @@ If you use the "Open in Cloud Shell" link in the README, this file should open i
 
 ### Code block with backticks
 
-```bash
-echo 'hello'
-```
+    ```bash
+    echo 'hello'
+    ```
 
 ### Indented code block without backticks
 
@@ -17,7 +17,9 @@ echo 'hello'
 echo 'hello'
 ```
 
-### Indented code block with backticks
+### Indented code block _IN A LIST_ with backticks
+1. This is a list item
+    1. This is a list sub-item
     ```bash
     echo 'hello'
     ```
